@@ -1,0 +1,29 @@
+{
+  "name": "sprint2-bot-challenge",
+  "version": "1.0.0",
+  "description": "Beginner level challenge",
+  "main": "app/bot.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukeshni/sprint2-bot-challenge.git"
+  },
+  "keywords": [
+    "mocha",
+    "algorithm"
+  ],
+  "author": "Givery Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukeshni/sprint2-bot-challenge/issues"
+  },
+  "homepage": "https://github.com/sukeshni/sprint2-bot-challenge#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
